@@ -34,7 +34,7 @@
   <tr>
     <td width="33%" valign="top">
       <a href="https://lukasbeier.de/spur-value-partners">
-        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/spur-card.png" width="100%" />
+        <img src="https://lukasbeier.de/wp-content/uploads/2026/01/spur.png" width="100%" />
       </a>
       <br><br>
       <sub>SPUR Value Partners</sub>
@@ -42,7 +42,7 @@
     </td>
     <td width="33%" valign="top">
       <a href="https://lukasbeier.de/distil-labs">
-        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/distil-card.png" width="100%" />
+        <img src="https://lukasbeier.de/wp-content/uploads/2026/01/distil.png" width="100%" />
       </a>
       <br><br>
       <sub>Distil Labs</sub>
@@ -50,7 +50,7 @@
     </td>
     <td width="33%" valign="top">
       <a href="https://lukasbeier.de/mb-familiencoaching">
-        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/mb-card.png" width="100%" />
+        <img src="https://lukasbeier.de/wp-content/uploads/2025/03/MB.png" width="100%" />
       </a>
       <br><br>
       <sub>MB Familiencoaching</sub>
