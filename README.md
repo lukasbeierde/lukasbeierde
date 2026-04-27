@@ -1,19 +1,15 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://lukasbeier.de/wp-content/uploads/readme-hero-dark.png">
+  <img alt="Lukas Beier. I design beginnings. For founders. For funds. For ideas that deserve a clear, powerful entrance." src="https://lukasbeier.de/wp-content/uploads/readme-hero-light.png" width="100%">
+</picture>
+
 <div align="center">
 
-<br><br>
-
-# I design beginnings.
-### For founders. For funds.
-
-<br><br>
+[View my work ↓](https://lukasbeier.de)
 
 </div>
 
-Lukas Beier is a designer working on brand launches and foundational design systems for founders, funds, and companies finding their voice.
-
 <br>
-
-### Work
 
 <table>
   <tr>
@@ -22,46 +18,40 @@ Lukas Beier is a designer working on brand launches and foundational design syst
         <img src="https://lukasbeier.de/wp-content/uploads/2025/12/Gemini_Generated_Image_t54mmit54mmit54m-edited.png" width="100%" />
       </a>
       <br><br>
-      <strong>SPUR Value Partners</strong><br>
-      Brand identity
+      <sub>SPUR Value Partners</sub>
+      <h3>Identity</h3>
     </td>
     <td width="33%" valign="top">
       <a href="https://lukasbeier.de/motion">
         <img src="https://lukasbeier.de/wp-content/uploads/2025/12/distillabs-demo-animation-1.gif" width="100%" />
       </a>
       <br><br>
-      <strong>Distil Labs</strong><br>
-      Product animation
+      <sub>Distil Labs</sub>
+      <h3>Motion</h3>
     </td>
     <td width="33%" valign="top">
       <a href="https://lukasbeier.de/website">
         <img src="https://lukasbeier.de/wp-content/uploads/2025/03/Frame-135.png" width="100%" />
       </a>
       <br><br>
-      <strong>MB Familiencoaching</strong><br>
-      Website
+      <sub>MB Familiencoaching</sub>
+      <h3>Website</h3>
     </td>
   </tr>
 </table>
 
 <br>
 
-### Practice
+#### Practice
 
-Brand identity. Motion design. Websites and digital products. Typography. Presentation design.
-
-<br>
-
-### Selected clients
-
-Sophie Chung. Trinh Le-Fiedler. Till Hufnagel. Philipp Noll. Selim Nowicki. SPUR Value Partners. Project A. GNIW.
+Identity. Motion. Websites. Typography. Presentations.
 
 <br>
 
-### Find me elsewhere
+#### Elsewhere
 
-[lukasbeier.de](https://lukasbeier.de)  ·  [LinkedIn](https://www.linkedin.com/in/lukasbeierde/)  ·  [Behance](https://www.behance.net/lukasbeier)  ·  [Instagram](https://www.instagram.com/lukasbeierde/)  ·  [Vimeo](https://vimeo.com/lukasbeier)  ·  [Medium](https://medium.com/@lukasbeier.de)
+[lukasbeier.de](https://lukasbeier.de) · [LinkedIn](https://www.linkedin.com/in/lukasbeierde/) · [Behance](https://www.behance.net/lukasbeier) · [Instagram](https://www.instagram.com/lukasbeierde/) · [Vimeo](https://vimeo.com/lukasbeier) · [Medium](https://medium.com/@lukasbeier.de)
 
-<br>
+<br><br>
 
 <sub>Berlin · Designer of beginnings</sub>
