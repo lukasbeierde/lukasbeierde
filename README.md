@@ -1,16 +1,28 @@
-## Hi there 👋
+## Lukas Beier
 
-<!--
-**lukasbeierde/lukasbeierde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Designer working on brand launches and foundational design systems for founders, funds, and companies finding their voice.
 
-Here are some ideas to get you started:
+I design beginnings.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I do
+
+- Brand identity and visual systems
+- Motion design and product animation
+- Websites and digital products
+- Typography and type design
+- Presentation design
+
+### Selected work
+
+Sophie Chung. Trinh Le-Fiedler. Till Hufnagel. Philipp Noll. Selim Nowicki. SPUR Value Partners. Project A. GNIW.
+
+### Find me elsewhere
+
+- Portfolio · [lukasbeier.de](https://lukasbeier.de)
+- LinkedIn · [/in/lukasbeierde](https://www.linkedin.com/in/lukasbeierde/)
+- Behance · [/lukasbeier](https://www.behance.net/lukasbeier)
+- Instagram · [@lukasbeierde](https://www.instagram.com/lukasbeierde/)
+- Vimeo · [/lukasbeier](https://vimeo.com/lukasbeier)
+- Medium · [@lukasbeier.de](https://medium.com/@lukasbeier.de)
+
+Based in Berlin.
