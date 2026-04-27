@@ -1,9 +1,12 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://lukasbeier.de/wp-content/uploads/readme-hero-dark.png">
-  <img alt="Lukas Beier. I design beginnings. For founders. For funds. For ideas that deserve a clear, powerful entrance." src="https://lukasbeier.de/wp-content/uploads/readme-hero-light.png" width="100%">
-</picture>
-
 <div align="center">
+
+<sub>Lukas Beier</sub>
+
+# I design beginnings.<br>For founders. For funds.
+
+For ideas that deserve a clear, powerful entrance.
+
+<br>
 
 [View my work ↓](https://lukasbeier.de)
 
