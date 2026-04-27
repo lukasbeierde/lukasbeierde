@@ -4,37 +4,53 @@
 
 # I design beginnings.<br>For founders. For funds.
 
-For ideas that deserve a clear, powerful entrance.
-
 <br>
 
-[View my work ↓](https://lukasbeier.de)
+<sub>Founders</sub>
+
+<p>
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/sophie.png&w=96&h=96&fit=cover&mask=circle" width="48" align="middle" />
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/trinh.png&w=96&h=96&fit=cover&mask=circle&v=2" width="48" align="middle" />
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/till.png&w=96&h=96&fit=cover&mask=circle&v=2" width="48" align="middle" />
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/philipp.png&w=96&h=96&fit=cover&mask=circle" width="48" align="middle" />
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/selim.png&w=96&h=96&fit=cover&mask=circle" width="48" align="middle" />
+</p>
+
+<sub>Funds</sub>
+
+<p>
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/spur.png&w=96&h=96&fit=cover&mask=circle" width="48" align="middle" />
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/Project-A.png&w=96&h=96&fit=contain&bg=white&mask=circle&v=2" width="48" align="middle" />
+  <img src="https://images.weserv.nl/?url=lukasbeier.de/wp-content/uploads/2025/12/GNIW.png&w=96&h=96&fit=cover&mask=circle" width="48" align="middle" />
+</p>
+
+<br>
 
 </div>
 
-<br>
+## Selected work
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <a href="https://lukasbeier.de/identity">
-        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/Gemini_Generated_Image_t54mmit54mmit54m-edited.png" width="100%" />
+      <a href="https://lukasbeier.de/spur-value-partners">
+        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/spur-card.png" width="100%" />
       </a>
       <br><br>
       <sub>SPUR Value Partners</sub>
       <h3>Identity</h3>
     </td>
     <td width="33%" valign="top">
-      <a href="https://lukasbeier.de/motion">
-        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/distillabs-demo-animation-1.gif" width="100%" />
+      <a href="https://lukasbeier.de/distil-labs">
+        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/distil-card.png" width="100%" />
       </a>
       <br><br>
       <sub>Distil Labs</sub>
       <h3>Motion</h3>
     </td>
     <td width="33%" valign="top">
-      <a href="https://lukasbeier.de/website">
-        <img src="https://lukasbeier.de/wp-content/uploads/2025/03/Frame-135.png" width="100%" />
+      <a href="https://lukasbeier.de/mb-familiencoaching">
+        <img src="https://lukasbeier.de/wp-content/uploads/2025/12/mb-card.png" width="100%" />
       </a>
       <br><br>
       <sub>MB Familiencoaching</sub>
@@ -43,18 +59,19 @@ For ideas that deserve a clear, powerful entrance.
   </tr>
 </table>
 
+## Practice
+
+- Identity
+- Motion
+- Web
+- Presentation
+- Typeface
+- Video
+
+## Elsewhere
+
+[Website](https://lukasbeier.de) · [LinkedIn](https://www.linkedin.com/in/lukasbeierde/) · [Behance](https://www.behance.net/lukasbeier) · [Instagram](https://www.instagram.com/lukasbeierde/) · [Medium](https://medium.com/@lukasbeier.de)
+
 <br>
 
-#### Practice
-
-Identity. Motion. Websites. Typography. Presentations.
-
-<br>
-
-#### Elsewhere
-
-[lukasbeier.de](https://lukasbeier.de) · [LinkedIn](https://www.linkedin.com/in/lukasbeierde/) · [Behance](https://www.behance.net/lukasbeier) · [Instagram](https://www.instagram.com/lukasbeierde/) · [Vimeo](https://vimeo.com/lukasbeier) · [Medium](https://medium.com/@lukasbeier.de)
-
-<br><br>
-
-<sub>Berlin · Designer of beginnings</sub>
+<div align="center"><sub>Berlin</sub></div>
